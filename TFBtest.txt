@@ -1,0 +1,14 @@
+
+// 使用快速排序對數組進行排序
+
+// 使用bubble Sort排序對數組進行排序，並加上測試案例
+
+
+// GitHub 連結
+
+https://github.com/ianliu711/Python_PADA_train.git
+
+git remote add origin https://github.com/ianliu711/Python_PADA_train.git
+git branch -M main
+git push -u origin main
+

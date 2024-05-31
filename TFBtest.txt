@@ -14,3 +14,10 @@ git remote add origin https://github.com/ianliu711/Python_PADA_train.git
 git branch -M main
 git push -u origin main
 
+
+// Git狀態
+--> U：Untracked
+--> A：Tracked
+--> 空：已commit
+--> M：修改
+

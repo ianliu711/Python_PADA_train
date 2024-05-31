@@ -70,4 +70,3 @@ console.log(sumToOne(6)); // 21
 console.log(sumToOne(10)); // 55
 console.log(sumToOne(15)); // 120
 console.log(sumToOne(20)); // 210
-

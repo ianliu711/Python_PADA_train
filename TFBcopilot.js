@@ -55,3 +55,19 @@ function bubbleSort(arr) {
 const arrayTwo = [5, 2, 9, 1, 7, 6, 3];
 const sortedArrayTwo = bubbleSort(arrayTwo);
 console.log(sortedArrayTwo);
+
+
+// 寫一個1加到n的程式，並加上測試案例
+function sumToOne(n) {
+    let sum = 0;
+    for (let i = 1; i <= n; i++) {
+        sum += i;
+    }
+    return sum;
+}
+
+console.log(sumToOne(6)); // 21
+console.log(sumToOne(10)); // 55
+console.log(sumToOne(15)); // 120
+console.log(sumToOne(20)); // 210
+
